@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PUA-smile-blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-02-24T00:00:00+09:00</updated><entry><title>テスト投稿</title><link href="/tesutotou-gao.html" rel="alternate"></link><published>2019-02-24T00:00:00+09:00</published><updated>2019-02-24T00:00:00+09:00</updated><author><name>PUA-smile</name></author><id>tag:None,2019-02-24:/tesutotou-gao.html</id><content type="html">&lt;h2&gt;テスト投稿です。&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>テスト</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-02-24T00:00:00+09:00</updated><entry><title>テスト投稿</title><link href="/tesutotou-gao.html" rel="alternate"></link><published>2019-02-24T00:00:00+09:00</published><updated>2019-02-24T00:00:00+09:00</updated><author><name>PUA-smile</name></author><id>tag:None,2019-02-24:/tesutotou-gao.html</id><content type="html">&lt;h2&gt;テスト投稿です。&lt;/h2&gt;
 &lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt; My name is PUA-smile @Japan&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
